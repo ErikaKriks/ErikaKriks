@@ -8,9 +8,11 @@
 </h1>
 
 ### :woman_technologist: About Me :
-- :telescope: I am a student of Data Science aspiring to become the Data Analyst.
-- :stethoscope: I am extremely interested in fields of healthcare and education, since I have some previous experience in those.
-- :sun_with_face: In my free time, I read articles about data and classical literature, run and play violin.
+- :telescope: a student of Data Science aspiring to become the Data Analyst.
+- :stethoscope: a complete data and healthcare geek!
+- :brain: loving intelectual challenges! I believe that this is how you progress!
+- :nerd_face: learning addict (currently improving my French and data skills)
+- :exploding_head: passionate about education, baking, music, table games & making new connections (with people and in data)👩🏼‍🏫👩🏼‍🍳🎻🎲🫂📊
 
 - :mailbox: You can reach me via email kriksciunaitee@gmail.com or
 <div id="badges">
