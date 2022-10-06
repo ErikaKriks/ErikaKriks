@@ -14,7 +14,7 @@
 
 - :mailbox: You can reach me via email kriksciunaitee@gmail.com or
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/erika-krik%C5%A1%C4%8Di%C5%ABnait%C4%97-a8bb46203/)">
+  <a href="[https://www.linkedin.com/in/erika-krik%C5%A1%C4%8Di%C5%ABnait%C4%97-a8bb46203/]">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
