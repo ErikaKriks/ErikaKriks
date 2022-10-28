@@ -8,7 +8,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-- :telescope: aspiring Data Analyst
+- :telescope: aspiring data analyst
 - :stethoscope: a complete data and healthcare geek!
 - :brain: loving intelectual challenges! I believe that this is how you progress!
 - :nerd_face: learning addict (currently improving my French and data skills)
